@@ -1,0 +1,2 @@
+#   index    LocalEnergy         LocalEnergy_sq      LocalPotential      Kinetic             LocalECP            IonIon              ElecElec            BlockWeight         BlockCPU            AcceptRatio         
+         0   -8.5284753878e+00    7.2879129000e+01   -1.6167632086e+01    7.6391566978e+00   -1.1895528271e+01   -3.6892268292e+00   -5.8287698533e-01    1.0240000000e+04    2.6250448269e-02    3.7858886719e-01
